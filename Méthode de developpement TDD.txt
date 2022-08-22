@@ -1,0 +1,16 @@
+Méthode de developpement TDD
+****************************
+
+1) Ecris les tests
+
+2) Ecris le code necessaire
+
+3) Validation via le test 
+    - Le test echoue : Retour à l'etape 2
+    - Le test est validé : Etape 4
+
+4) Refactorisation du code (Mise au propre)
+
+5) Validation via le test 
+    - Le test echoue : Retour à l'etape 4
+    - Le test est validé : Fonctionnalité terminé
